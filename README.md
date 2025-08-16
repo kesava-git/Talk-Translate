@@ -6,16 +6,6 @@
 
 The system uses popular machine learning models, APIs, and libraries to deliver seamless translation and speech synthesis. Whether you're traveling, learning a new language, or interacting with people from different cultural backgrounds, **Talk & Translate** makes communication easy and efficient.
 
-## Home Page
----
-<img width="960" alt="Image" src="https://github.com/user-attachments/assets/88312ea4-b5a1-439e-9b7b-3b4c2298b096" />
-
-## Demo Video
----
-🎥 **Watch the demo video** to see how Talk & Translate works in action! 
-
-https://github.com/user-attachments/assets/a5021951-73ed-4ccf-8633-72792ad30b7c
-
 ## Key Features
 ---
 - **Real-Time Speech Recognition:** Transcribes spoken words into text instantly.
